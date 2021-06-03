@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lux in tenebris. Or, A clavis to the Treasury in Broad-Street.</title>
+            <author>Fauntleroy, Thomas.</author>
+         </titleStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85167</idno><idno type="EEBO-CITATION">99862504</idno>
+  <idno type="VID">114665</idno>
+  <idno type="EEBO-PROQUEST">2240961614</idno>
+  
+            <idno type="STC">Wing F559</idno>
+            <idno type="STC">Thomason E721_5</idno>
+            <idno type="STC">ESTC R202097</idno>
+            <idno type="PROQUEST">99862504</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862504e"/>
+            <note>(EEBO-TCP ; phase 2, no. A85167)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114665)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 111:E721[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Lux in tenebris. Or, A clavis to the Treasury in Broad-Street.</title>
+                  <author>Fauntleroy, Thomas.</author>
+               </titleStmt>
+               <extent>[2], 17, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Tyton at the three Daggers in Fleet-Street,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1654. [i.e. 1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Tho. Fauntleroy.</note>
+                  <note>Thomason received his copy in November 1653.</note>
+                  <note>Annotation on Thomason copy: "Fauntleroy"; "Nou. 29. 1653."; 4 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Treasury --  Corrupt practices --  Early works to 1800.</term>
+               <term type="corporate_name">England and Wales. --  Commissioners of Excise --  Corrupt practices --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114665:1"/>
+            <p>
+               <hi>Lux in Tenebris.</hi> OR, A CLAVIS TO THE TREASURY IN Broad-Street.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Francis Tyton</hi> at the three Daggers in Fleet-Street, 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:114665:2"/>
+            <pb n="1" facs="tcp:114665:2"/>
+            <p>
+               <seg rend="decorInit">C</seg>Ourteous Reader, The dolefulgroans, and heart piercing out-cries of our mother Nation, now travelling and ready to be delivered, to<g ref="char:EOLhyphen"/>gether with the solemn publick invitations of our most renowned Patriots, at present Assembled together for her Assistance and security, requiring every true born son to contribute his tallent to her ayd and as<g ref="char:EOLhyphen"/>sistance; I shall endeavour, according to my duty, and the obli<g ref="char:EOLhyphen"/>gation that is upon me, in this the day of her trouble and anguish, freely to offer up my poor mite, which I here dedicate and present to the Politick Artist, it being a spark of light to be applyed to his Christal Globe, which will so multiply it, that by the Raies thereof, he may be guided to the discovery of the dark corners in and about the center of the Treasury in <hi>Broadstreet,</hi> and the Meanders of the circumference thereof within this Infant Common-wealth: The which, for methods sake, I shall distribute into these parts, <hi>viz.</hi> The first treating of the great loss and damage which hath accrued to the Publick by immethodical Accompts. The second, the unsuffer<g ref="char:EOLhyphen"/>able loss sustained by the Commissioners neglect, in not calling to accompt their Sub-commissioners and Substitutes. The third, the loss sustained by not clearing Accompts with Merchants and others. The fourth, the inconveniences and mischiefs attending their unsigned Orders and accompts. The fifth, the large coats cut out of the States narrow cloth. The sixth and last, the cause and fountain of the rest; to which for a conclusion, I shall briefly point at the remedy.</p>
+            <p>To the first, Which is their immethodical accompts, I affirm that the Commissioners themselves have not as yet given to the Auditor,
+<pb n="2" facs="tcp:114665:3"/>any of their own and peculiar accompts, respecting their receipts and payments, which hath been clear in the circumstances attend<g ref="char:EOLhyphen"/>ing the particulars thereof, but had in them many generals, be<g ref="char:EOLhyphen"/>sides ambiguities, which the Auditor could not be satisfied in, without Comments and additional explanatory Papers; And as for money brought to accompt, as disbursed for incident charges, the Auditor never as yet had (notwithstanding his frequent so<g ref="char:EOLhyphen"/>licitations) any accompt of the particulars thereof; The Commis<g ref="char:EOLhyphen"/>sioners procuring a propicious Order from the Committee for re<g ref="char:EOLhyphen"/>gulating the Excize, that the Auditor should onely compare their (general) accompts of charges with the receipts of the parties, and pass them accordingl; And as to their Sub-commissioners, I assert that they have been so far from observing the natural me<g ref="char:EOLhyphen"/>thod of accompts, with the circumstances of time, and the quantity of Commodities for what each person in the several Townships within their respective Divisions have paid or are indebted, That many of them have neither specified time, place, person, or com<g ref="char:EOLhyphen"/>moditie; And none of them have been clear in all those circum<g ref="char:EOLhyphen"/>stances, insomuch that no man may by their accompts be guided to discover a particular fraud; generals and ambiguities being their sanctuary. And as for debts and imperfect entries (notwith<g ref="char:EOLhyphen"/>standing the Ordinance of 31 <hi>August</hi> 1644, enjoyning the Com<g ref="char:EOLhyphen"/>missioners quarterly to deliver to the Auditor a true Copy of all perfect and imperfect entries, receipts, and payments of all the Offices throughout the Nation, that the State might have an accompt of the debts which are owing, and the persons by whom they are due) there was never any Sub-commissioners that gave any accompt thereof: But have observed this Ordinance equally with their directions of the 30 of <hi>April</hi> 1650, by the Committee for regulating the Excize, enjoyning them to return Rolls of their Compositions unto the chief Comptroller, whereof there is as much notice taken, and respect had, as to the several Papers sent and delivered to the Commissioners by the Auditor, and others, desiring a method in their accompts to be observed, which had answer, importing the Auditor to disturb the Revenue, in busying himself about matters of their charge, concerning him not; But how well they have discharged the same, may be gathered from an instance or two: The first shall be in the accompts of the Sub-commissioners for <hi>Northwales,</hi> where it seems there are but two
+<pb n="3" facs="tcp:114665:3"/>persons of all the Inhabitants in five Counties that are liable to pay Excize. If you look into the accompts of <hi>Bristol,</hi> there is not one person in thirteen hundreds; of <hi>Dorsetshire</hi> there is but four Towns in the whole County, and not the tythe of their Inhabi<g ref="char:EOLhyphen"/>tants neither; But I forbear to multiply Examples, it being ob<g ref="char:EOLhyphen"/>vious to common observations, how these Leeches have every where gorged themselves with the nutriment provided, and in<g ref="char:EOLhyphen"/>tended for our almost famished infant Commonwealth, the which by proportion hath not a fourth part of what is due, and accruing by the several Ordinances and Acts in this behalf.</p>
+            <p>To the second, which is the loss sustained by a neglect in not calling the Sub-commissioners and others to accompt from time to time, I affirm that the sum of 15724 <hi>li.</hi> 11 <hi>s.</hi> 10 <hi>d.</hi> was lost, and is by an Order of the Committee of the 22 of <hi>August</hi> 1652, made a subject of oblivion. And that there is 26196 <hi>li.</hi> 6. <hi>s.</hi> 4 <hi>d.</hi> which on the 29 of <hi>September</hi> 1652, was resting in the hands of the se<g ref="char:EOLhyphen"/>veral Brewers in and about the City of <hi>London,</hi> the which the Commissioners (together with their accomptants, which have had large sallaries, though the business was managed and transacted by Prentise-Boyes) as hitherto, neither have nor could place upon the proper Debtors, for which cause the State is like to bear the bur<g ref="char:EOLhyphen"/>then, and loss of so much money received by the Brewers from their Customers. And for like neglect in relation to the Far<g ref="char:EOLhyphen"/>mers and Sub-commissioners; I affirm, that on the 29 of <hi>Sep<g ref="char:EOLhyphen"/>tember</hi> 1652, there was resting in the hands of the several Farmers the just sum of 33690 <hi>li.</hi> 14 <hi>s.</hi> 7 <hi>d.</hi> and in the hands of the several Sub-commissioners, the just sum of 49277 <hi>li.</hi> 11 <hi>s.</hi> 11 <hi>d.</hi> which said debts the Commissioners never would or never could deliver unto the Auditor with the names of the proper Debtors, but are calcula<g ref="char:EOLhyphen"/>ted from the dark lights and imperfect charge, which the Commissi<g ref="char:EOLhyphen"/>oners have been pleased to furnish the Auditor with. The imper<g ref="char:EOLhyphen"/>fection whereof will manifest it self, by the ensuing Catalogue of accompts, which have not hitherto been brought to the Auditor, nor any satisfactory answer (though from time to time by him re<g ref="char:EOLhyphen"/>quired, and complained of) as may at large appear by several Papers sent to the Commissioners, the Committees for regula<g ref="char:EOLhyphen"/>ting the Excize, and Parliament also: Which Catalogue is as followeth, <hi>viz.</hi> For moneys received by vertue of the Or<g ref="char:EOLhyphen"/>dinance
+<pb n="4" facs="tcp:114665:4"/>of the 11 of <hi>September</hi> 1643, by the sub-Commissioners of.</p>
+            <list>
+               <item>Exon, and places adjacent, from 24 June 1652, to 29 Septem<g ref="char:EOLhyphen"/>ber 1652.</item>
+               <item>Braintree, from 25 December 1651, to 25 March 1652.</item>
+               <item>Dartmouth from 24 June, to 29 September 1652.</item>
+               <item>Arundel, from 25 December 1651, to 24 June 1652.</item>
+               <item>Barwick, from 25 March 1650 to 29 September 1652.</item>
+               <item>Bedford, from 9 September 1647, to 29 September 1648.</item>
+               <item>Bridg-water, from 25 December 1650, to 25 December 1651.</item>
+               <item>Bury S. Edmonds, from 24 June 1648, to 29 September 1648.</item>
+               <item>Colchester, from 29 September 1649, to 25 December 1650.</item>
+               <item>Gravesend, from 24 June 1652 to 29 September 1652.</item>
+               <item>The Ports in Wales from Decemb. and March 1651, to 29 Septem<g ref="char:EOLhyphen"/>ber 1652.</item>
+               <item>Liscard, from 29 Septemb. 1649, to 25 March 1650.</item>
+               <item>Pembrook from 29 Septemb. 1647, to 25 Decemb. 1648.</item>
+               <item>Truroe, from 29 Septemb. 1651, to 25 Decemb. 1651.</item>
+               <item>Chester from 29 Septemb. 1651 to 25 December 1651.</item>
+               <item>Somerset Ports, from 29 Septemb. 1651 to 29 Septemb. 1652.</item>
+               <item>North-wales, comprehending the Counties of Anglesey, Carnar<g ref="char:EOLhyphen"/>ven, Denbey Flint Merioneth, and Montgomery, from 15 Feb. 1646, to 29 September 1652.</item>
+            </list>
+            <list>
+               <head>For money received by the Sub-Commissioners, by vertue of the Ordinance of the <hi>9</hi> of <hi>Januarie, 1643.</hi> viz.</head>
+               <item>Arundel, from 25 March 1649, to 24 June 1651.</item>
+               <item>Barwick, from 25 Decemb. 1649, to 24 June 1651.</item>
+               <item>Boston, from 24 June 1647, to 29 Septemb. 1649.</item>
+               <item>Bridgwater, from 25 Decemb. 1651, to 24 June 1651.</item>
+               <item>Dover, from 25 March 1649, to 29 Septemb. 1649.</item>
+               <item>Sandwich, from 29 Septemb. 1648. to 25 March 1650.</item>
+               <item>Clackclose, from 29 Septemb. 1645, to 10 October 1645.</item>
+               <item>Wisbich, from 10 Januarie 1644, to 25 March 1647. and from 24 June 1647, to the 29 September 1649.</item>
+               <item>Gravesend, from 29 September 1647, to 24 June 1651.</item>
+               <item>Hull, from 24 June 1650, to 29 September 1650.</item>
+               <pb n="5" facs="tcp:114665:4"/>
+               <item>Ipswich, from 25 December 1649, to 25 December 1650.</item>
+               <item>Lancaster, from 29 Septemb. 1647, to 24 June 1651.</item>
+               <item>Liscard, from the 24 June 1650, to 24 June 1651.</item>
+               <item>Maulden, from 24 June 1647, to 24 June 1651.</item>
+               <item>South-wales, from 24 June 1647, to 24 June 1651.</item>
+               <item>Newcastle, from 29 September 1647, to 29 September 1650.</item>
+               <item>Whitbey, from 25 March 1648, to 24 June 1651.</item>
+               <item>Norwich, from 24 June 1647, to 25 December 1650, and from 25 March 1651, to 24 June 1651.</item>
+               <item>Pembrook, from 29 September 1650, to 25 March 1651.</item>
+               <item>Plymouth, from 25 March 1650, to 24 June 1650.</item>
+               <item>Portsmouth, from 24 June 1649, to 29 September 1650.</item>
+               <item>Rye, from 10 April 1645, to 10 July 1645. and from the 25 of March 1649, to 29 September 1649.</item>
+               <item>Ipswich, from 29 September 1650, to 25 December 1650.</item>
+               <item>Truroe, from 29 September 1648, to 25 December 1650.</item>
+               <item>Worcester, from 29 September 1648, to 24 June 1649.</item>
+               <item>York, from 25 March 1649, to 24 June 1651.</item>
+               <item>Chester, from 24 June 1647, to 25 December 1649.</item>
+               <item>North-Wales, from 15 Febr. 1646, to 29 September 1652.</item>
+            </list>
+            <list>
+               <head>For money received by the Sub-Commissioners, by vertue of the Ordinance of the <hi>8.</hi> of July <hi>1644. viz.</hi>
+               </head>
+               <item>Boston, from 8 July 1644, to 24 June 1647.</item>
+               <item>Alisbury, from 29 September 1646, to 25 March 1652.</item>
+               <item>Arundel, from 25 December 1650, to 24 June 1652.</item>
+               <item>Barwick, from 25 December 1647, to 25 March 1649; and from 25 December 1649, to 29 September 1652.</item>
+               <item>Bedford, from 8 July 1644, to 25 December 1651.</item>
+               <item>Braintree, from 8 July 1644, to 24 June 1645; and from 25 De<g ref="char:EOLhyphen"/>cember 1651, to 25 March 1652.</item>
+               <item>Bridge-water, from 25 December 1650, to 25 December 1651.</item>
+               <item>Bury St. Edmonds, from 8 July 1644, to 24 June 1645.</item>
+               <item>Clackclose, from 24 March 1644, to 29 September 1652.</item>
+               <item>Canterburie, from 8 July 1644 to 24 June 1645.</item>
+               <item>Colchester, from 29 September 1649, to 1 Januarie 1650, and from 24 June 1652, to 29 September 1652.</item>
+               <item>Dorset, from 24 June 1651, to 29 September 1652. and from the
+<pb n="6" facs="tcp:114665:5"/>25 December 1647, to 29 September 1649, and from 25 De<g ref="char:EOLhyphen"/>cember 1649, to 24 June 1650.</item>
+               <item>Dover, from 29 September 1649, to 25 March 1650.</item>
+               <item>Ely, and Wisbich, from 25 December 1648, to 29 Septemb. 1650.</item>
+               <item>Ely, from 25 December 1650, to 29 September 1651, and from 25 December 1651 to 29 September 1652.</item>
+               <item>Wisbich from 25 December 1650, to 24 June 1651.</item>
+               <item>Gravesend, from 24 June 1652, to 29 September 1652.</item>
+               <item>Guilford, from 29 September 1647, to 24 June 1649. and from 29, September 1650, to 25 December 1650.</item>
+               <item>Hertford, from the 24 June 1648, to 20 Febr. 1648, and from 25 December 1649 to 24 June 1651.</item>
+               <item>Holt, from 29 September 1649, to 29 September 1652.</item>
+               <item>Huntington, from 8 July 1644, to 25 March 1646 and from 24 June 1650. to 29 September 1651. and from 25 December 1651, to 29 September 1652.</item>
+               <item>Ipswich, from 29 September 1645, to 25 December 1645.</item>
+               <item>Lancaster, from 25 December 1651, to 29 September 1652.</item>
+               <item>Wakefield, from 25 December 1646, to 29 September 1648, and from 25 March 1649, to 24 June 1649, and from 24 June 1650, to 25 December 1650.</item>
+               <item>Leicester, from 8 July 1644, to 29 September 1646, and from 29 September 1647, to 29 September 1649, and from 24 June 1650, to 29 September 1650, and from 25 December 1650, to 25 March 1651, and from 24 June 1652, to 29 September 1652.</item>
+               <item>Rye, from 24 June 1650, to 29 September 1650, and from 24 June 1652, to 29 September 1652.</item>
+               <item>Lincoln, from 29 September 1646, to 24 June 1650, and from 25 March 1651, to 29 September 1651.</item>
+               <item>Liscard, from 24 June 1651, to 29 September 1651, and from 25 March 1652, to 29 September 1652.</item>
+               <item>Maulden, from 12 November 1647, to 29 September 1649.</item>
+               <item>Newcastle, from 25 March 1649, to 29 September 1650.</item>
+               <item>Northampton, from 25 December 1648, to 25 March 1652.</item>
+               <item>Yarmouth, from 29 September 1649, to 29 September 1650.</item>
+               <item>North-riding, from 29 September 1651, to 25 March 1652.</item>
+               <item>Nottingham, from 25 March 1650, to 29 September 1650.</item>
+               <item>Pembrook, from 25 March 1648, to 25 December 1648, and
+<pb n="7" facs="tcp:114665:5"/>from 29 September 1651 to 29 September 1652.</item>
+               <item>Peterborow, from 24 June 1646, to 29 September 1647, and from 25 December 1648, to 29 September 1649.</item>
+               <item>Plimouth, from 24 June 1648, to 29 September 1648.</item>
+               <item>Portsmouth, from 29 September 1648, to 29 September 1649, and from 24 June 1650, to 29 September 1650, and from 29 Sep<g ref="char:EOLhyphen"/>tember 1651, to 25 March 1652.</item>
+               <item>Reading and Windsor, from 8 July 1644, to 20 December 1644, and from 25 December 1648, to 25 December 1650, and from 25 December 1651, to 25 March 1652.</item>
+               <item>Rumford, from 29 September 1649, to 29 September 1650.</item>
+               <item>Sarum, from 29 September 1649, to 25 December 1651.</item>
+               <item>Salop, from 24 June 1649, to 24 June 1650.</item>
+               <item>Sandwich, from 29 September 1648, to 25 March 1650, and from 29 September 1650, to 24 June 1652.</item>
+               <item>South-hampton, from 25 March 1649, to 29 September 1651.</item>
+               <item>Southwould, from 25 December 1647, to 25 March 1651, and from 29 September 1651 to 29 September 1652.</item>
+               <item>Stafford, from 29 September 1645, to 29 September 1646, and from 24 June 1647, to 15 June 1648.</item>
+               <item>Chester, from 29 September 1649, to 24 June 1651, and from 29 September 1651, to 25 December 1651, and from 25 March 1652, to 29 September 1652.</item>
+               <item>Isle of Wight, from 25 December 1648, to 25 March 1649, and from 24 June 1651, to 29 September 1651, and from 24 June 1652, to 29 September 1652.</item>
+               <item>Worcester, from 24 June 1648, to 29 September 1649, and from 25 March 1652, to 29 September 1652.</item>
+               <item>St. Albons, Banbury, Monmouth, Oxon, Bath, Tiverton, Malborow, and Northwales, from the 8 July 1644 to the 29 September 1652.</item>
+            </list>
+            <list>
+               <head>For money received by the Sub-Commissioners, by vertue of the Ordinance of the <hi>24</hi> of November <hi>1645. viz.</hi>
+               </head>
+               <item>Bury, from 25 March 1648, to 29 September 1652.</item>
+               <item>Colchester, from 29 September 1649, to 24 December 1650. and from 25 March 1652, to 29 September 1652.</item>
+               <item>Darby, from 15 May 1645, to 24 June 1646.</item>
+               <pb n="8" facs="tcp:114665:6"/>
+               <item>Dartmouth, from 24 November 1645, to 20 May 1646, and from 25 December 1651, to 29 September 1652.</item>
+               <item>Dover, from 24 June 1648, to 25 March 1651, and from 24 June 1651, to 29 September 1652.</item>
+               <item>Exon, from 25 December 1651, to 29 September 1652.</item>
+               <item>Huntingdon, from 24 November 1645, to 29 September 1646, and from 29 September 1649, to 25 March 1650, and from 24 June 1650, to 24 June 1652.</item>
+               <item>Lancaster, from 25 December 1648, to 29 September 1652.</item>
+               <item>Lincoln, from 25 March 1647, to 29 September 1649, and from 24 June 1651, to 25 March 1652.</item>
+               <item>Lyn, from 9 May 1651, to 29 September 1652.</item>
+               <item>Newcastle, from 25 March 1649, to 29 September 1650, and from 25 March 1652, to 29 September 1652.</item>
+               <item>Nottingham, from 29 September 1648, to 25 December 1649, and from 25 March 1652, to 24 June 1652.</item>
+               <item>Yarmouth, from 29 September 1649, to 25 December 1649, and from 24 June 1652, to 29 September 1652.</item>
+               <item>Pembrook, from 24 November 1645, to 4 January 1646, and from 29 Septemb. 1647, to 29 September 1652.</item>
+               <item>Plymouth, from 29 September 1651, to 25 March 1652.</item>
+               <item>Portsmouth, from 29 September 1648, to 29 September 1649, and from 25 December 1649, to 29 September 1652.</item>
+               <item>Sarum, from 25 March 1648, to 25 December 1651.</item>
+               <item>South-hampton, from 24 June 1651, to 29 September 1652.</item>
+               <item>Stafford, from 24 November 1645, to 25 March 1647, and from 24 June 1647, to 25 December 1649, and from 24 June 1650, to 25 December 1650.</item>
+               <item>Whitbey from 24 November 1645, to 25 December 1646, and from 24 June 1649, to 29 September 1652.</item>
+               <item>Wisbich, from 25 March 1651, to 29 September 1652.</item>
+               <item>Worcester, from 24 November 1645, to 29 September 1646, and from 25 March 1648, to 29 September 1651.</item>
+               <item>York, from 24 November 1645, to 24 June 1646, and from 25 December 1649, to 29 September 1650.</item>
+               <item>Leeds, from 29 September 1648, to 25 December 1650.</item>
+               <item>Liscard, from 24 June 1648, to 25 March 1651, and from 24 June 1651, to 29 September 1652.</item>
+               <pb n="9" facs="tcp:114665:6"/>
+               <item>Truroe, from 25 December 1649, to 29 September 1651.</item>
+               <item>Chester, from 24 November 1645, to 20 July 1646, and from 29 September 1649, to 29 September 1652.</item>
+               <item>Dorset, from 24 November 1645, to 25 March 1649; and from 29 September 1649, to 29 September 1652.</item>
+               <item>Boston, from 24 November 1645, to 29 September 1649; and from 25 March 1650, to 29 September 1650; and from 24 June 1651, to 29 September 1652.</item>
+               <item>Glocester, from 24 November 1645, to 25 December 1649, and from 24 June 1650, to 25 March 1651; and from 24 June 1651, to 29 September 1652.</item>
+               <item>Barnstable, from 24 November 1645, to 19 October 1648; and from 29 September 1649, to 29 September 1652.</item>
+               <item>Bridgwater, from 24 November 1645, to 29 September 1649; and from 29 September 1650, to 29 September 1652.</item>
+               <item>S. Albons, Alisbury, Arundel, Banbury, Barwick, Bedford, Brain<g ref="char:EOLhyphen"/>tree, Cambridge, Canterburie, Coventrie, Ely, Gravesend, Guilford, Hereford, Hertford, Holt, Ipswich, Kingston upon Thames, Leicester, Lewes, Maulden, Maidstone, Monmouth, Marlborow, North-hampton, North-riding in York-shire, Oxford, Peterburrough, Reading, and Windsor, Rumford, Rye, and the rape of Hastings, Salop, Sandwich, Southwould, Tiver<g ref="char:EOLhyphen"/>ton, Wakefield, Isle of Wight, and North-Wales, from 24 November 1645, to the 29 of September 1652.</item>
+            </list>
+            <p>By this time, I doubt not courteous Reader, but that thou art well satisfied of the imperfect charge, from which notwithstanding I assert so great a debt; but by the way thou mayst probably ad<g ref="char:EOLhyphen"/>mire, why so many Accounts should be standing out, especially re<g ref="char:EOLhyphen"/>lateing to the two last Ordinances. I answer, that the parties entrust<g ref="char:EOLhyphen"/>ed to receive those accounts, if a sub-Commissioner had brought an account unto them, and had not also brought money to clear the same, they would not receive the said account; and by this means the State hath not onely lost what money the sub-Commis<g ref="char:EOLhyphen"/>sioners had in readiness, but is also incapable of charging the sub-Commissioners.</p>
+            <p>Lastly, that the Commissioners of Excise, have either voluntarily
+<pb n="10" facs="tcp:114665:7"/>or negligently suffered, and permitted the sub-Commissioners thus to detain the Accounts of their receipts, is very evident, by an offer that was made to my self and others, in and about the moneth of <hi>June</hi> 1650, (the former Commissioners, their time being to de<g ref="char:EOLhyphen"/>termine at <hi>Michaelmas</hi> following) that if we would dispatch their account then in hand, they would provide that all the sub-Commis<g ref="char:EOLhyphen"/>sioners accounts should be brought to us within a moneth; but their offer not taking, the accounts are, as you may perceive, not brought in to this day.</p>
+            <p>To the third, which is the loss sustained by not clearing their ac<g ref="char:EOLhyphen"/>counts with Merchants, and others, I affirm, that notwithstanding the directions in the Ordinance of the 16 of <hi>September</hi> 1645, and elsewhere; that the Commissioners of Excise have not hitherto cleared their accounts with them, but have been so far from it, that they have scarce kept a regular account, whereby they may be enabled to do the same; insomuch that an honest, ingenious, and able accomptant of their own, did assert in their hearing, that the State had lost 200000 l. by neglect therein; which assertion of his, I am not at present in a capacitie to manifest by the particulars, in regard those accounts have not been in the <hi>Auditors</hi> custodie or cognizance.</p>
+            <p>To the fourth, which are the inconveniences and mischiefs atten<g ref="char:EOLhyphen"/>ding their unsigned orders and accounts, (the reforming where<g ref="char:EOLhyphen"/>of, hath at several times been desired, and the inconveniences com<g ref="char:EOLhyphen"/>plained of) <hi>viz.</hi> that their Clerks may probably make as many orders as themselves; and I am induced to believe the same to be so, for the reasons following; The first drawn from the corruption in nature, which can hardly bauk an opportunitie; the second from the flourishing of the parties; and the third from the great summes of money that are ordered away, by orders signed by their Clerks, and upon so little reason or ground for the same. For it cannot be supposed that judicious men, which have sworn to exe<g ref="char:EOLhyphen"/>cute their places, according to the best of their knowledge, po<g ref="char:EOLhyphen"/>wer and skill, should give away 7 or 8000 <hi>li. per. an.</hi> out of the receipts of wine onely (not to mention any of the rest) under the
+<pb n="11" facs="tcp:114665:7"/>notion of defective, when as there is none properly so, or at least properly to be accounted so, but what is sold to Di<g ref="char:EOLhyphen"/>stillers; for the Vintners which sell all together at one and the same rate, gain (as I suppose) the most by that which cost them least. And as for the not signing of their accounts, the inconveniences are obvious to every common capacitie; and therefore I shall onely instance in one, and leave the courteous Reader to determine, whether or no, thou or any other, wouldest be willing to acknowledge and own such an account, wherein it should be made appear, that instead of pleasuring the Parliament with the loan of 74650 <hi>li.</hi> thou shouldest place the same to account, as so much paid for the respective services, by several Ordinances, out of the States cash in thy hands; wherby thou wouldest have been discharged for the like summe; and notwith<g ref="char:EOLhyphen"/>standing make payment of the same again to thy self, in the same and succeeding accounts, as did the Commissio<g ref="char:EOLhyphen"/>ners in the year ended the 29 of <hi>September</hi> 1646, in which account of their own, besides 11650 <hi>li.</hi> which was certified to the Comptroller, there is 31792 <hi>li.</hi> 16 <hi>s.</hi> which they have twice placed to account, as disbursed out of the States cash in their hands; the first at the day of the loan, and the second at the day of their reimbursment thereof; all which considered, there is very great reason and cause, why the Commissioners and their Agents should improve the chief<g ref="char:EOLhyphen"/>est of their talents and interest, to perswade all sorts of peo<g ref="char:EOLhyphen"/>ple, that to maintain an <hi>Auditor,</hi> is onely a charge, and ex<g ref="char:EOLhyphen"/>pence of the Revenue, and utterly useless; But I say and pray, <hi>floreat respublica,</hi> counterfeit wares are seldom sold, unless in the dark, or where there is no more light then shop<g ref="char:EOLhyphen"/>keepers will allow of; the Commissioners are freed from an <hi>Auditor,</hi> and have a Comptrol of their own breeding <hi>(latet anguis in herba).</hi> And as this is now setled in the most can<g ref="char:EOLhyphen"/>did sense, (as I conceive) can be but a cloak for knaverie; for one man (though endued with the eyes of <hi>Argus</hi>) cannot truly register and take due cognisance of the transa<g ref="char:EOLhyphen"/>ctions in three or four places at once.</p>
+            <pb n="12" facs="tcp:114665:8"/>
+            <p>To the fifth, which I call the large coats cut out of the States narrow cloth; I assert that in the dissection of their book of charges, for the year ended the 29 <hi>September,</hi> 1659, made in obedience to an order of the Committee for Regulating the Excise, there may you at large view their bountie, and liberalitie among their creatures, amount<g ref="char:EOLhyphen"/>ing to the summe of 16099 <hi>li.</hi> 19 <hi>s.</hi> 11 <hi>d.</hi> part bestowed on this man, and part on that. But you must ask of them the reason, if you would be satisfied therein; onely I heard say, that it was for the better carrying on of the Ex<g ref="char:EOLhyphen"/>cise, that the Parliament Clerks, and their under-Clerks, to<g ref="char:EOLhyphen"/>gether with the Serjeant at Arms. Committee-Clerks, Door-keepers, and Messengers together, must all be their Pensioners, and under constant salary, whilest that they at home state the domestick expence of the Office, and make for the same year a provision of 35 ½ Chaldron of Coals, 2400 Faggots, 14500 Billets, and 293 dozen of Candles, that you may see how the rest are spent; and as for their re<g ref="char:EOLhyphen"/>ceipt by fines and forfeitures, out of which the Commissio<g ref="char:EOLhyphen"/>ners by Ordinance of the 11 of <hi>September</hi> 1643, were im<g ref="char:EOLhyphen"/>powered to give and make allowance to Informers, &amp;c. from that time to the 29 <hi>September</hi> 1647, they made allowances (besides others not placed to account) amounting unto 2247. <hi>li.</hi> 11 <hi>s.</hi> 11 <hi>d. ob.</hi> reserving to the State no more then 1111 <hi>li.</hi> 15 <hi>s.</hi> 6 <hi>d. ob.</hi> and after that till the 24 June 1653. when by Ordinance of the 13 of <hi>July</hi> 1647, the full moity of all fines and forfeitures was to be paid for the use and re<g ref="char:EOLhyphen"/>lief of maimed souldiers, the Commissioners did dispose of 10228 <hi>li.</hi> 3 <hi>s. ob.</hi> unto their own Officers and others, pay<g ref="char:EOLhyphen"/>ing 7628 <hi>li.</hi> 18 <hi>s.</hi> 2 ¾ for the use and relief of maimed soul<g ref="char:EOLhyphen"/>diers.</p>
+            <p>In the sixth and last place, I shall endeavor a discoverie of the fountain and spring head from which most of these corrupt streams have issued; the which as I suppose lieth hidden and closely covered in the fourth Article of the Or<g ref="char:EOLhyphen"/>dinance
+<pb n="13" facs="tcp:114665:8"/>of the 31 of <hi>August</hi> 1644, and in the close of the Ordinance of the 30 of <hi>July</hi> 1646, in both which it is declared that the Commissioners of Excise shall not stand chargeable with any more then the money which either hath or shall be by them received; from which and the premises the consequence is undeniable, That the Commissioners neither had nor would have had the like circumspection, as if otherwise they had been charge<g ref="char:EOLhyphen"/>able for their Officers and Substitutes, as in reason they ought: For they either have or should have taken suf<g ref="char:EOLhyphen"/>ficient securities, for and from them, wherey they might have secured themselves: From hence therefore it came to pass, that in chusing of their Officers and Sub-commissioners, they were byassed with respect to rela<g ref="char:EOLhyphen"/>tions and private interests, more then with the qualifi<g ref="char:EOLhyphen"/>cations and abilities of the persons for the service, by means whereof I dare boldly affirm, that the Revenue hath, and may suffer more by the management of fools, which are not capable to walk by rules and instructions, then either it hath or can by the management of knaves, which (though but formally) do observe and walk by the same: Hence also hath issued such a stupid care and regard in the methodizing of Accompts, in calling their Sub-commissioners and Accomptants from time to time to clear their own Accompts, and truly to state and clear Accompts with Merchants and others: The Commissioners themselves being in no danger, and withall their friends and relations highly pleasured, having by this means (to say no more) a fair opportunity, and advantage to keep great stocks of the States money in their hands, and drive great Trades, while the State must be necessitated to borrow upon interest.</p>
+            <p>Courteous Reader, having thus opened the soar, give me leave to remember thee of this maxime, <hi>Tolle causam, &amp; tollitur effectus;</hi> and withall to submit to thy serious and
+<pb n="14" facs="tcp:114665:9"/>deliberate consideration, a Salve or two, <hi>viz.</hi>
+            </p>
+            <p>First, That the second and third Articles in the instru<g ref="char:EOLhyphen"/>ctious of the Committee for regulating the Excize, dated the 30 of <hi>April</hi> 1650, may in part be re-inforced and observed, <hi>viz.</hi> That the Sub-commissioners, Collectors, and their under-Officers may repair to every Town, Village, Hamlet, and Parish within their limits and Precincts respectively (or some others authorized to that purpose:) And by the ayd and assistance of the Justices for the Peace, or the Commis<g ref="char:EOLhyphen"/>sioners for the Monthly Assesments, the Constables, Head<g ref="char:EOLhyphen"/>boroughs, and other Officers (together with the assistance of such well affected persons as shall freely offer up them<g ref="char:EOLhyphen"/>selves to the service) take and make in writing a true List or Roll of the number and names of the several Inhabi<g ref="char:EOLhyphen"/>tants, which are either Brewers, Victuallers, Ale-house-Keepers, or Jnn-Keepers, which brew and sell Ale, Perry, Sider, or strong Beer; And with respect had to the quantity of Ale and Beer, &amp;c. by them brewed and spent, to make Compositions with such as will compound for the same: And as for such as refuse to compound, to make a true esti<g ref="char:EOLhyphen"/>mate of what money in reason and probability they ought or should pay according to the quantities of Beer and Ale, &amp;c. which they customarily draw and vend, (and let them be left to make true entries thereof at their peril:) And likewise, that the said persons so authorized do in like manner return the names of the several Merchants and Traders in Excisable Commodities, with the like estimate: And the same Roll or List under their hands and Seals to be sent and delivered to the Auditor or other person deputed to exa<g ref="char:EOLhyphen"/>mine and peruse the said Accompts, who (notwithstanding the frequent alterations and changes in persons) may and will thereby be exceedingly guided, and enabled for the due Examination of the said Accompts, which shall be brought to him from time to time afterwards.</p>
+            <p>Secondly, That the Commissioners, Sub-commissioners, and their under Officers may have a method prescribed and
+<pb n="15" facs="tcp:114665:9"/>enjoyned, wherein every receipt may be attended with the natural circumstances of time, place, person, quantity, or value of the Commodity: And that the Accompts of the Sub-commissioners especially may be distinguished into three heads, parts, or columns; The first, containing the proper receipts within the time of the accompt arising and growing due; The second, containing the Arrears due and payable before the time of the accompt in order as they shall be received; And the third and last, containing the debts due, and uncollected within the time thereof, excluding the Arrears due upon former Accompts, by which together with the necessary dependance of one accompt upon ano<g ref="char:EOLhyphen"/>ther, an Auditor may be enabled to look very narrowly and piercingly into the business; To this I add, that if the Sub-commissioners according to the Order of Parliament, dated the 23 of <hi>October</hi> 1649, shall upon penalty be en<g ref="char:EOLhyphen"/>joyned either to give Acquittances, or at least to sign such Acquittances as shall duly be made by the person of whom they receive any sum or sums of money; As also, that besides the forfeiture of their bonds, there may be an encourage<g ref="char:EOLhyphen"/>ment of double the sum to be paid by the Sub-commissi<g ref="char:EOLhyphen"/>oners or others to the discoverer, which by comparing of such his Acquittance with their Accompts, if it be con<g ref="char:EOLhyphen"/>cealed and shall not be found to be entred therein ac<g ref="char:EOLhyphen"/>cordingly. The premisses observed and published in every Market-place, I leave thee Reader to judge, what improve<g ref="char:EOLhyphen"/>ment may be made in the Revenue, when a man will scarce dare to defraud, being watched so narrowly on every side.</p>
+            <p>Thirdly that the greatest care, and circumspection may be had in keeping true accounts of the imports, and the Mer<g ref="char:EOLhyphen"/>chant enjoyned to give account from time to time, what he hath disposed of, and to whom; so shall the people be eased of the great burthen, in keeping servants onely to fetch
+<pb n="16" facs="tcp:114665:10"/>Tickets; whereby they are enabled to carrie, remove, or romage their wares; and the State eased from the bur<g ref="char:EOLhyphen"/>then of a multitude of unnecessary Officers, kept for this purpose; To which I add, that there may be an established Comptrol in the several Ports, as there is in <hi>London,</hi> and alwaies hath, and is for the Customs (a revenue of less im<g ref="char:EOLhyphen"/>portance) which doubtless will countervail the expence (though not sensibly) in bridling the corruptions of o<g ref="char:EOLhyphen"/>thers, which hitherto have had so fair an object and oppor<g ref="char:EOLhyphen"/>tunitie.</p>
+            <p>And lastly, that the Sub-Commissioners and Comptrollers may be enjoyned under a penaltie, to perfect, and either bring, or send their accounts to the <hi>Auditor,</hi> before the expira<g ref="char:EOLhyphen"/>tion of the next Quarter, and in the interim no salarie to be either allowed or paid them. And by this means the Au<g ref="char:EOLhyphen"/>ditor shall be enabled to give and make a due account of the revenue in its proper time and season, as oft as it shall be required.</p>
+            <p>To conclude, I expect both censure and calumny for this my bold attempt, which notwithstanding I as<g ref="char:EOLhyphen"/>sert to be the legitimate birth of my tender affecti<g ref="char:EOLhyphen"/>ons to the Publike, the which if my private endea<g ref="char:EOLhyphen"/>vours (which have been many and frequent) could have brought forth, during the time of my abode under the late Auditor, I had not at this time discovered it to the World: But these things being probably now like to be buryed in Oblivion, and without hope of re<g ref="char:EOLhyphen"/>dress, I thought my self in duty bound not to keep silence in this seasonable time: And therefore though by withdrawing the curtain, I have and shall incur the frowns of some, if I have herein contributed any thing of Publick concernment, that was and is all I desire; other matters I value not, being at present if the Re<g ref="char:EOLhyphen"/>cords
+<pb n="17" facs="tcp:114665:10"/>be not embezelled, able to maintain what I have writen to be the truth: And therefore I say with the Poet,</p>
+            <epigraph>
+               <q>
+                  <l>Si fractus illabatur orbis,</l>
+                  <l>Impavidum ferient ruinae.</l>
+               </q>
+            </epigraph>
+            <closer>
+               <signed>And subcribe my name, <hi>Tho. Fauntleroy.</hi>
+               </signed>
+               <dateline>
+                  <hi>Ludgate Hill</hi>
+                  <date>
+                     <hi>the</hi> 22 <hi>of Novemb.</hi> 1653.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
